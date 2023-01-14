@@ -45,9 +45,17 @@ the magnitude of coefficient.
 <br>
 <br>
 <br>
+## Scatterplot and Histogram
+image.png
+<br>
+<br>
+<br>
+<br>
 ## Comparison:
 Linear regression model being a simple model fits straight line to the data and
 has the highest mean squared error. This error can be seen reducing, by fitting a
 quadratic curve to the data samples using a Polynomial Regression of 2nd order. As
 observed, Lasso regression outperforms every other model in terms of RMSE. Whereas
 the best cross validation is obtained by implementing the ridge regression model.
+
+
