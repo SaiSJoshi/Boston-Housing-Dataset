@@ -48,7 +48,7 @@ the magnitude of coefficient.
 ## Scatterplot and Histogram
 
 ![Scatter Plot](./images/scatter.png)
-![Pair Plot](./images/pairplot.png)
+![Pair Plot](./images/paiplot.png)
 ![Correlation Matrix](./images/correlation.png)
 ![Price Vs Predicted](./images/price_predicted.png)
 ![Pridicted Vs Residuals](./images/predicted_residual.png)
