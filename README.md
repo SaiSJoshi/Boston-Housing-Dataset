@@ -46,7 +46,11 @@ the magnitude of coefficient.
 <br>
 <br>
 ## Scatterplot and Histogram
-image.png
+![Scatter Plot](./images/scatter.png)
+
+![Histogram of Residuals](./images/histogram_residuals.png)
+
+![Correlation Matrix](./images/correlation.png)
 <br>
 <br>
 <br>
