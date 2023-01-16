@@ -46,11 +46,13 @@ the magnitude of coefficient.
 <br>
 <br>
 ## Scatterplot and Histogram
+
 ![Scatter Plot](./images/scatter.png)
-
-![Histogram of Residuals](./images/histogram_residuals.png)
-
+![Pair Plot](./images/pairplot.png)
 ![Correlation Matrix](./images/correlation.png)
+![Price Vs Predicted](./images/price_predicted.png)
+![Pridicted Vs Residuals](./images/predicted_residual.png)
+![Histogram of Residuals](./images/histogram_residuals.png)
 <br>
 <br>
 <br>
